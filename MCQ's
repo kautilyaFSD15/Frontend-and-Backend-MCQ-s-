@@ -1,0 +1,1888 @@
+🚀 HTML — 20 MCQs
+Q1. HTML stands for:
+A. Hyper Trainer Marking Language
+B. Hyper Text Markup Language
+C. Hyper Text Marketing Language
+D. Hyper Tool Multi Language
+✅ Answer: B
+Explanation: HTML is the standard markup language for web pages.
+
+Q2. Which tag defines the largest heading?
+A. <h6>
+B. <heading>
+C. <h1>
+D. <head>
+✅ Answer: C
+Explanation: <h1> is the highest-level heading.
+
+Q3. Which is a self-closing tag?
+A. <div>
+B. <p>
+C. <img>
+D. <section>
+✅ Answer: C
+Explanation: <img> is a void element (no closing tag).
+
+Q4. Which tag is used to create a hyperlink?
+A. <link>
+B. <a>
+C. <href>
+D. <url>
+✅ Answer: B
+Explanation: <a> tag creates hyperlinks.
+
+Q5. Which attribute specifies image path?
+A. href
+B. src
+C. alt
+D. path
+✅ Answer: B
+
+Q6. Which is a semantic tag?
+A. <div>
+B. <span>
+C. <section>
+D. <b>
+✅ Answer: C
+Explanation: Semantic tags describe meaning.
+
+Q7. Which tag defines a table row?
+A. <td>
+B. <tr>
+C. <th>
+D. <table>
+✅ Answer: B
+
+Q8. Input type for password field?
+A. text
+B. password
+C. secure
+D. hidden
+✅ Answer: B
+
+Q9. <meta> tag is used for:
+A. Styling
+B. Metadata/SEO
+C. Scripting
+D. Layout
+✅ Answer: B
+
+Q10. Which is a block-level element?
+A. <span>
+B. <a>
+C. <div>
+D. <img>
+✅ Answer: C
+
+Q11. Which is an inline element?
+A. <div>
+B. <p>
+C. <span>
+D. <section>
+✅ Answer: C
+
+Q12. Correct HTML5 doctype?
+A. <!DOCTYPE html5>
+B. <!DOCTYPE html>
+C. <doctype html>
+D. <html5>
+✅ Answer: B
+
+Q13. Line break tag:
+A. <lb>
+B. <break>
+C. <br>
+D. <hr>
+✅ Answer: C
+
+Q14. Which tag defines a form?
+A. <form>
+B. <input>
+C. <label>
+D. <submit>
+✅ Answer: A
+
+Q15. <title> tag is inside:
+A. <body>
+B. <head>
+C. <html>
+D. <meta>
+✅ Answer: B
+
+Q16. Open link in new tab:
+A. new="tab"
+B. target="_blank"
+C. open="new"
+D. link="new"
+✅ Answer: B
+
+Q17. <ul> represents:
+A. Ordered list
+B. Unordered list
+C. Definition list
+D. Table
+✅ Answer: B
+
+Q18. <ol> represents:
+A. Ordered list
+B. Object list
+C. Online list
+D. None
+✅ Answer: A
+
+Q19. <strong> is used for:
+A. Italic
+B. Bold (semantic importance)
+C. Underline
+D. Highlight
+✅ Answer: B
+
+Q20. <iframe> is used for:
+A. Styling
+B. Embedding another webpage
+C. Linking
+D. Forms
+✅ Answer: B
+
+🎨 CSS — 20 MCQs
+Q1. CSS stands for:
+A. Creative Style Sheets
+B. Cascading Style Sheets
+C. Computer Style Sheets
+D. Colorful Style Sheets
+✅ Answer: B
+
+Q2. Highest specificity:
+A. Tag
+B. Class
+C. ID
+D. Inline
+✅ Answer: D
+Explanation: Inline > ID > Class > Tag
+
+Q3. Default flex direction:
+A. column
+B. row
+C. inline
+D. grid
+✅ Answer: B
+
+Q4. position: absolute is relative to:
+A. viewport
+B. nearest positioned ancestor
+C. body
+D. screen
+✅ Answer: B
+
+Q5. z-index works on:
+A. all elements
+B. positioned elements
+C. inline elements
+D. block elements
+✅ Answer: B
+
+Q6. display: none means:
+A. hidden with space
+B. removed from layout
+C. transparent
+D. invisible only
+✅ Answer: B
+
+Q7. visibility: hidden means:
+A. removed
+B. invisible but space remains
+C. deleted
+D. transparent
+✅ Answer: B
+
+Q8. CSS Grid is:
+A. 1D layout
+B. 2D layout
+C. 3D layout
+D. Static layout
+✅ Answer: B
+
+Q9. Flexbox is:
+A. 2D
+B. 1D
+C. Static
+D. None
+✅ Answer: B
+
+Q10. Margin controls:
+A. inner spacing
+B. outer spacing
+C. border
+D. color
+✅ Answer: B
+
+Q11. Padding controls:
+A. outer spacing
+B. inner spacing
+C. border
+D. margin
+✅ Answer: B
+
+Q12. overflow: hidden does:
+A. shows overflow
+B. hides overflow
+C. scrolls
+D. expands
+✅ Answer: B
+
+Q13. position: fixed:
+A. relative
+B. fixed to viewport
+C. static
+D. absolute
+✅ Answer: B
+
+Q14. display: flex enables:
+A. grid
+B. flexbox
+C. inline
+D. block
+✅ Answer: B
+
+Q15. justify-content aligns:
+A. cross axis
+B. main axis
+C. vertical
+D. none
+✅ Answer: B
+
+Q16. align-items aligns:
+A. main axis
+B. cross axis
+C. horizontal only
+D. none
+✅ Answer: B
+
+Q17. rem unit is based on:
+A. parent
+B. root
+C. body
+D. element
+✅ Answer: B
+
+Q18. em unit is based on:
+A. root
+B. parent
+C. viewport
+D. screen
+✅ Answer: B
+
+Q19. opacity: 0 means:
+A. removed
+B. invisible but space exists
+C. deleted
+D. hidden completely
+✅ Answer: B
+
+Q20. float is used for:
+A. animation
+B. layout alignment
+C. color
+D. spacing
+✅ Answer: B
+
+⚡ JavaScript — 20 MCQs (Most Important)
+Q1. Output?
+
+console.log(typeof null)
+A. null
+B. object
+C. undefined
+D. error
+✅ Answer: B
+Explanation: Known JS bug.
+
+Q2. Output?
+
+console.log(1 + "2" + 3)
+A. 6
+B. 123
+C. 33
+D. Error
+✅ Answer: B
+
+Q3. Output?
+
+console.log("5" - 2)
+A. 3
+B. "3"
+C. NaN
+D. Error
+✅ Answer: A
+
+Q4. === operator:
+A. loose equality
+B. strict equality
+C. assignment
+D. comparison only
+✅ Answer: B
+
+Q5. NaN == NaN?
+A. true
+B. false
+C. undefined
+D. error
+✅ Answer: B
+
+Q6. let is:
+A. function scoped
+B. block scoped
+C. global
+D. constant
+✅ Answer: B
+
+Q7. var is:
+A. block scoped
+B. function scoped
+C. constant
+D. none
+✅ Answer: B
+
+Q8. Closure means:
+A. function call
+B. function + lexical scope
+C. loop
+D. object
+✅ Answer: B
+
+Q9. Hoisting applies to:
+A. let
+B. const
+C. var
+D. none
+✅ Answer: C
+
+Q10. Arrow function this:
+A. dynamic
+B. global
+C. lexical
+D. undefined
+✅ Answer: C
+
+Q11. Promise states:
+A. start, end
+B. pending, fulfilled, rejected
+C. run, stop
+D. none
+✅ Answer: B
+
+Q12. setTimeout is:
+A. sync
+B. async
+C. blocking
+D. none
+✅ Answer: B
+
+Q13. map() returns:
+A. same array
+B. new array
+C. object
+D. number
+✅ Answer: B
+
+Q14. filter() returns:
+A. boolean
+B. new array
+C. string
+D. object
+✅ Answer: B
+
+Q15. reduce() returns:
+A. array
+B. single value
+C. object
+D. string
+✅ Answer: B
+
+Q16. typeof undefined:
+A. null
+B. undefined
+C. object
+D. error
+✅ Answer: B
+
+Q17. [] == false:
+A. true
+B. false
+C. error
+D. undefined
+✅ Answer: A
+
+Q18. 0 == false:
+A. true
+B. false
+C. error
+D. undefined
+✅ Answer: A
+
+Q19. Event loop handles:
+A. sync
+B. async
+C. loops
+D. errors
+✅ Answer: B
+
+Q20. this in global scope:
+A. window
+B. undefined
+C. object
+D. function
+✅ Answer: A
+
+
+
+
+
+
+
+
+
+🟢 Node.js — 20 MCQs
+Q1. Node.js is:
+A. Programming language
+B. JavaScript runtime environment
+C. Database
+D. Framework
+✅ Answer: B
+Explanation: Node.js runs JavaScript outside the browser.
+
+Q2. Node.js is built on:
+A. SpiderMonkey
+B. V8 Engine
+C. Chakra
+D. Java VM
+✅ Answer: B
+
+Q3. Which module is used for file handling?
+A. http
+B. fs
+C. path
+D. os
+✅ Answer: B
+
+Q4. Which module is used to create server?
+A. fs
+B. os
+C. http
+D. url
+✅ Answer: C
+
+Q5. What does NPM stand for?
+A. Node Package Manager
+B. New Package Manager
+C. Network Package Manager
+D. Node Project Manager
+✅ Answer: A
+
+Q6. require() is used for:
+A. Exporting modules
+B. Importing modules
+C. Running server
+D. Creating file
+✅ Answer: B
+
+Q7. Node.js is:
+A. Multi-threaded
+B. Single-threaded
+C. No-thread
+D. Static
+✅ Answer: B
+Explanation: Uses event loop for concurrency.
+
+Q8. Non-blocking means:
+A. Synchronous
+B. Asynchronous
+C. Static
+D. Sequential
+✅ Answer: B
+
+Q9. __dirname gives:
+A. File name
+B. Directory path
+C. Module name
+D. Server name
+✅ Answer: B
+
+Q10. module.exports is used to:
+A. Import
+B. Export
+C. Execute
+D. Compile
+✅ Answer: B
+
+Q11. Which function is async?
+A. readFileSync
+B. readFile
+C. writeFileSync
+D. openSync
+✅ Answer: B
+
+Q12. Which is sync?
+A. readFile
+B. writeFile
+C. readFileSync
+D. setTimeout
+✅ Answer: C
+
+Q13. Buffer is used for:
+A. Text only
+B. Binary data
+C. JSON
+D. HTML
+✅ Answer: B
+
+Q14. Event loop handles:
+A. Sync tasks
+B. Async tasks
+C. Only I/O
+D. None
+✅ Answer: B
+
+Q15. process is:
+A. Local object
+B. Global object
+C. Module
+D. Function
+✅ Answer: B
+
+Q16. REPL stands for:
+A. Read Execute Print Loop
+B. Run Execute Program Loop
+C. Read Eval Print Loop
+D. Run Eval Program Loop
+✅ Answer: C
+
+Q17. Stream is:
+A. Static data
+B. Continuous data flow
+C. Array
+D. Object
+✅ Answer: B
+
+Q18. setTimeout is:
+A. Sync
+B. Async
+C. Blocking
+D. Static
+✅ Answer: B
+
+Q19. Node.js uses:
+A. Thread pool only
+B. Event-driven architecture
+C. OOP only
+D. Static model
+✅ Answer: B
+
+Q20. Which is NOT a core module?
+A. fs
+B. http
+C. express
+D. path
+✅ Answer: C
+
+🚀 Express.js — 20 MCQs
+Q1. Express.js is:
+A. Database
+B. Framework for Node.js
+C. Language
+D. Browser
+✅ Answer: B
+
+Q2. app.get() is used for:
+A. POST request
+B. GET request
+C. DELETE request
+D. PUT request
+✅ Answer: B
+
+Q3. app.post() handles:
+A. GET
+B. POST
+C. PUT
+D. PATCH
+✅ Answer: B
+
+Q4. Middleware is:
+A. Database
+B. Function in req-res cycle
+C. API
+D. Route
+✅ Answer: B
+
+Q5. next() does:
+A. Ends request
+B. Calls next middleware
+C. Restarts app
+D. Throws error
+✅ Answer: B
+
+Q6. express.json() is used for:
+A. HTML parsing
+B. JSON parsing
+C. CSS parsing
+D. XML parsing
+✅ Answer: B
+
+Q7. Route parameter example:
+A. /user?id=1
+B. /user/:id
+C. /user#id
+D. /user-id
+✅ Answer: B
+
+Q8. Query parameter example:
+A. /user/:id
+B. /user?id=1
+C. /user/id
+D. /user-id
+✅ Answer: B
+
+Q9. res.send() is used to:
+A. Receive data
+B. Send response
+C. Parse data
+D. Store data
+✅ Answer: B
+
+Q10. res.json() sends:
+A. HTML
+B. JSON
+C. CSS
+D. Text
+✅ Answer: B
+
+Q11. req.body contains:
+A. URL params
+B. Request body data
+C. Headers
+D. Cookies
+✅ Answer: B
+
+Q12. req.params contains:
+A. Query
+B. Body
+C. URL params
+D. Headers
+✅ Answer: C
+
+Q13. req.query contains:
+A. Params
+B. Query string
+C. Body
+D. Headers
+✅ Answer: B
+
+Q14. Static files served using:
+A. express.static()
+B. express.file()
+C. app.static()
+D. file.static()
+✅ Answer: A
+
+Q15. Error middleware has:
+A. 2 params
+B. 3 params
+C. 4 params
+D. 1 param
+✅ Answer: C
+Explanation: (err, req, res, next)
+
+Q16. res.status(404) means:
+A. success
+B. error code
+C. redirect
+D. none
+✅ Answer: B
+
+Q17. app.listen() is used to:
+A. stop server
+B. start server
+C. restart
+D. debug
+✅ Answer: B
+
+Q18. Router is used for:
+A. DB
+B. modular routes
+C. CSS
+D. HTML
+✅ Answer: B
+
+Q19. REST API means:
+A. Random API
+B. CRUD-based API
+C. Static API
+D. None
+✅ Answer: B
+
+Q20. Express follows:
+A. MVC pattern
+B. Only frontend
+C. DB model
+D. Static model
+✅ Answer: A
+
+🗄️ SQL — 20 MCQs
+Q1. Primary key is:
+A. Duplicate
+B. Unique + Not Null
+C. Nullable
+D. Optional
+✅ Answer: B
+
+Q2. Foreign key is used for:
+A. Sorting
+B. Linking tables
+C. Deleting
+D. Filtering
+✅ Answer: B
+
+Q3. Which command retrieves data?
+A. INSERT
+B. SELECT
+C. UPDATE
+D. DELETE
+✅ Answer: B
+
+Q4. WHERE clause is used for:
+A. Sorting
+B. Filtering rows
+C. Grouping
+D. Joining
+✅ Answer: B
+
+Q5. GROUP BY is used for:
+A. Sorting
+B. Filtering
+C. Grouping rows
+D. Joining
+✅ Answer: C
+
+Q6. HAVING is used with:
+A. SELECT
+B. GROUP BY
+C. ORDER BY
+D. DELETE
+✅ Answer: B
+
+Q7. ORDER BY is used for:
+A. Filtering
+B. Sorting
+C. Joining
+D. Grouping
+✅ Answer: B
+
+Q8. INNER JOIN returns:
+A. All rows
+B. Matching rows
+C. Left rows
+D. Right rows
+✅ Answer: B
+
+Q9. LEFT JOIN returns:
+A. Matching only
+B. All left + matched
+C. All right
+D. None
+✅ Answer: B
+
+Q10. COUNT() does:
+A. Sum
+B. Count rows
+C. Average
+D. Max
+✅ Answer: B
+
+Q11. SUM() does:
+A. Count
+B. Add values
+C. Average
+D. Sort
+✅ Answer: B
+
+Q12. AVG() does:
+A. Sum
+B. Average
+C. Count
+D. Sort
+✅ Answer: B
+
+Q13. DISTINCT keyword:
+A. duplicates
+B. unique values
+C. sorting
+D. grouping
+✅ Answer: B
+
+Q14. INSERT is used to:
+A. delete
+B. update
+C. add data
+D. fetch
+✅ Answer: C
+
+Q15. UPDATE is used to:
+A. add
+B. modify
+C. delete
+D. select
+✅ Answer: B
+
+Q16. DELETE is used to:
+A. add
+B. remove data
+C. modify
+D. select
+✅ Answer: B
+
+Q17. LIMIT is used to:
+A. filter
+B. restrict rows
+C. join
+D. group
+✅ Answer: B
+
+Q18. INDEX improves:
+A. storage
+B. performance
+C. UI
+D. syntax
+✅ Answer: B
+
+Q19. NOT NULL means:
+A. optional
+B. must have value
+C. duplicate
+D. none
+✅ Answer: B
+
+
+Q20. Which is DDL command?
+A. SELECT
+B. INSERT
+C. CREATE
+D. UPDATE
+✅ Answer: C
+
+
+
+
+
+
+
+
+
+
+
+🚀 HTML — 20 NEW MCQs
+Q1. Which tag is used for inserting a horizontal line?
+A. <line>
+B. <hr>
+C. <br>
+D. <hl>
+✅ Answer: B
+Explanation: <hr> creates a horizontal rule.
+
+Q2. Which attribute provides alternate text for images?
+A. title
+B. alt
+C. src
+D. href
+✅ Answer: B
+
+Q3. Which tag is used to define a description list?
+A. <ul>
+B. <ol>
+C. <dl>
+D. <list>
+✅ Answer: C
+
+Q4. Which tag is used for table header cell?
+A. <td>
+B. <th>
+C. <tr>
+D. <thead>
+✅ Answer: B
+
+Q5. Which tag is used to embed audio?
+A. <sound>
+B. <audio>
+C. <media>
+D. <music>
+✅ Answer: B
+
+Q6. Which attribute is used to specify form submission URL?
+A. action
+B. method
+C. target
+D. submit
+✅ Answer: A
+
+Q7. Which input type is used for email validation?
+A. text
+B. email
+C. mail
+D. validate
+✅ Answer: B
+
+Q8. Which tag defines navigation links?
+A. <nav>
+B. <link>
+C. <menu>
+D. <header>
+✅ Answer: A
+
+Q9. Which tag is used for video embedding?
+A. <media>
+B. <video>
+C. <movie>
+D. <play>
+✅ Answer: B
+
+Q10. Which attribute is used to merge table columns?
+A. rowspan
+B. colspan
+C. merge
+D. span
+✅ Answer: B
+
+Q11. Which tag is used for emphasized text?
+A. <b>
+B. <i>
+C. <em>
+D. <strong>
+✅ Answer: C
+
+Q12. Which tag defines a footer?
+A. <bottom>
+B. <footer>
+C. <end>
+D. <section>
+✅ Answer: B
+
+Q13. Which attribute is used for unique identification?
+A. class
+B. id
+C. name
+D. key
+✅ Answer: B
+
+Q14. Which tag defines a label for input?
+A. <input>
+B. <label>
+C. <form>
+D. <text>
+✅ Answer: B
+
+Q15. Which tag is used for preformatted text?
+A. <code>
+B. <pre>
+C. <format>
+D. <text>
+✅ Answer: B
+
+Q16. Which tag is used to group form elements?
+A. <fieldset>
+B. <group>
+C. <formgroup>
+D. <section>
+✅ Answer: A
+
+Q17. Which tag defines caption for table?
+A. <caption>
+B. <title>
+C. <head>
+D. <th>
+✅ Answer: A
+
+Q18. Which tag is used for inline frame?
+A. <frame>
+B. <iframe>
+C. <embed>
+D. <object>
+✅ Answer: B
+
+Q19. Which tag is used for abbreviation?
+A. <abbr>
+B. <short>
+C. <ab>
+D. <acr>
+✅ Answer: A
+
+Q20. Which tag defines document section?
+A. <section>
+B. <part>
+C. <div>
+D. <area>
+✅ Answer: A
+
+🎨 CSS — 20 NEW MCQs
+Q1. Which property changes text color?
+A. font-color
+B. color
+C. text-style
+D. background
+✅ Answer: B
+
+Q2. Which property sets background color?
+A. bg-color
+B. background-color
+C. color-bg
+D. back-color
+✅ Answer: B
+
+Q3. Which property controls font size?
+A. text-size
+B. font-size
+C. size
+D. text-font
+✅ Answer: B
+
+Q4. Which value makes element inline-block?
+A. inline
+B. block
+C. inline-block
+D. flex
+✅ Answer: C
+
+Q5. Which property is used for border radius?
+A. radius
+B. border-radius
+C. curve
+D. round
+✅ Answer: B
+
+Q6. Which property changes font style?
+A. font-weight
+B. font-style
+C. text-style
+D. font-format
+✅ Answer: B
+
+Q7. Which property sets width?
+A. size
+B. width
+C. length
+D. area
+✅ Answer: B
+
+Q8. Which property sets height?
+A. height
+B. size
+C. area
+D. length
+✅ Answer: A
+
+Q9. Which property controls text alignment?
+A. align
+B. text-align
+C. justify
+D. font-align
+✅ Answer: B
+
+Q10. Which property adds shadow to text?
+A. text-shadow
+B. shadow
+C. font-shadow
+D. box-shadow
+✅ Answer: A
+
+Q11. Which property controls overflow scrolling?
+A. overflow
+B. scroll
+C. flow
+D. display
+✅ Answer: A
+
+Q12. Which property sets background image?
+A. bg-image
+B. background-image
+C. image-bg
+D. back-image
+✅ Answer: B
+
+Q13. Which property controls list style?
+A. list-type
+B. list-style
+C. list
+D. style
+✅ Answer: B
+
+Q14. Which property changes cursor?
+A. pointer
+B. cursor
+C. mouse
+D. hover
+✅ Answer: B
+
+Q15. Which property defines position?
+A. align
+B. position
+C. layout
+D. display
+✅ Answer: B
+
+Q16. Which value makes element hidden?
+A. display: none
+B. visibility: visible
+C. opacity: 1
+D. show: false
+✅ Answer: A
+
+Q17. Which property sets font family?
+A. font
+B. font-family
+C. text-family
+D. family
+✅ Answer: B
+
+Q18. Which property controls spacing between letters?
+A. letter-spacing
+B. word-spacing
+C. spacing
+D. text-spacing
+✅ Answer: A
+
+Q19. Which property controls line spacing?
+A. line-height
+B. line-spacing
+C. spacing
+D. height
+✅ Answer: A
+
+Q20. Which property adds shadow to box?
+A. shadow
+B. box-shadow
+C. text-shadow
+D. border-shadow
+✅ Answer: B
+
+⚡ JavaScript — 20 NEW MCQs
+Q1. Output?
+
+console.log(2 + true)
+A. 2
+B. 3
+C. true
+D. NaN
+✅ Answer: B
+Explanation: true → 1
+
+Q2. Output?
+
+console.log("10" * 2)
+A. 20
+B. "20"
+C. NaN
+D. Error
+✅ Answer: A
+
+Q3. Output?
+
+console.log(typeof [])
+A. array
+B. object
+C. list
+D. undefined
+✅ Answer: B
+
+Q4. Output?
+
+console.log(undefined + 1)
+A. 1
+B. NaN
+C. undefined
+D. error
+✅ Answer: B
+
+Q5. Which is NOT primitive?
+A. string
+B. number
+C. object
+D. boolean
+✅ Answer: C
+
+Q6. isNaN("abc") returns:
+A. true
+B. false
+C. undefined
+D. error
+✅ Answer: A
+
+Q7. typeof NaN:
+A. number
+B. NaN
+C. undefined
+D. object
+✅ Answer: A
+
+Q8. Which loop runs at least once?
+A. for
+B. while
+C. do-while
+D. foreach
+✅ Answer: C
+
+Q9. push() does:
+A. remove
+B. add end
+C. add start
+D. sort
+✅ Answer: B
+
+Q10. pop() does:
+A. remove end
+B. remove start
+C. add
+D. sort
+✅ Answer: A
+
+Q11. shift() does:
+A. remove first
+B. remove last
+C. add last
+D. sort
+✅ Answer: A
+
+Q12. unshift() does:
+A. add start
+B. add end
+C. remove
+D. sort
+✅ Answer: A
+
+Q13. Math.floor(4.7):
+A. 5
+B. 4
+C. 4.7
+D. error
+✅ Answer: B
+
+Q14. parseInt("10px"):
+A. 10
+B. NaN
+C. "10"
+D. error
+✅ Answer: A
+
+Q15. Boolean(0):
+A. true
+B. false
+C. undefined
+D. error
+✅ Answer: B
+
+Q16. [] + [] →
+A. 0
+B. ""
+C. []
+D. NaN
+✅ Answer: B
+
+Q17. null + 1 →
+A. 1
+B. NaN
+C. null
+D. error
+✅ Answer: A
+
+Q18. typeof function(){} →
+A. function
+B. object
+C. undefined
+D. method
+✅ Answer: A
+
+Q19. console.log(!!"hello") →
+A. true
+B. false
+C. "hello"
+D. error
+✅ Answer: A
+
+
+Q20. Which method converts JSON to object?
+A. JSON.stringify
+B. JSON.parse
+C. JSON.convert
+D. JSON.object
+✅ Answer: B
+
+
+
+
+
+
+
+
+
+🎨 Bootstrap — 20 NEW MCQs
+Q1. Bootstrap is primarily based on which CSS layout model?
+A. Float
+B. Grid system
+C. Flexbox only
+D. Table
+✅ Answer: B
+Explanation: Bootstrap uses a 12-column grid system.
+
+Q2. Which class makes an image responsive?
+A. img-responsive
+B. img-fluid
+C. responsive-img
+D. img-auto
+✅ Answer: B
+
+Q3. Which class centers text?
+A. text-middle
+B. text-center
+C. center-text
+D. align-center
+✅ Answer: B
+
+Q4. Which class creates a primary button?
+A. button-primary
+B. btn btn-primary
+C. btn-primary-only
+D. primary-btn
+✅ Answer: B
+
+Q5. Which class adds margin on all sides?
+A. m-3
+B. p-3
+C. margin-3
+D. space-3
+✅ Answer: A
+
+Q6. Which class adds padding?
+A. m-2
+B. p-2
+C. pad-2
+D. space-2
+✅ Answer: B
+
+Q7. Which class hides element on small screens?
+A. d-none d-sm-block
+B. hide-sm
+C. sm-hidden
+D. display-sm-none
+✅ Answer: A
+
+Q8. Which class creates a row?
+A. col
+B. row
+C. container
+D. grid
+✅ Answer: B
+
+Q9. Which class defines column width 6?
+A. col-6
+B. column-6
+C. grid-6
+D. span-6
+✅ Answer: A
+
+Q10. Which class makes container full width?
+A. container-full
+B. container-fluid
+C. container-wide
+D. full-container
+✅ Answer: B
+
+Q11. Which class aligns items center (flex)?
+A. align-center
+B. align-items-center
+C. justify-center
+D. flex-center
+✅ Answer: B
+
+Q12. Which class justifies content center?
+A. justify-center
+B. justify-content-center
+C. align-content-center
+D. content-center
+✅ Answer: B
+
+Q13. Which class creates a card?
+A. box
+B. panel
+C. card
+D. container
+✅ Answer: C
+
+Q14. Which class creates navbar?
+A. nav
+B. navbar
+C. menu
+D. header
+✅ Answer: B
+
+Q15. Which class makes text bold?
+A. bold
+B. fw-bold
+C. font-bold
+D. text-bold
+✅ Answer: B
+
+Q16. Which class sets background color?
+A. bg-primary
+B. background-primary
+C. color-bg
+D. bg-color
+✅ Answer: A
+
+Q17. Which class makes element flex?
+A. flex
+B. d-flex
+C. display-flex
+D. flexbox
+✅ Answer: B
+
+Q18. Which class rounds corners?
+A. rounded
+B. border-round
+C. radius
+D. curve
+✅ Answer: A
+
+Q19. Which class creates alert?
+A. alert-box
+B. alert
+C. message
+D. notify
+✅ Answer: B
+
+Q20. Bootstrap uses which breakpoint for large screens?
+A. sm
+B. md
+C. lg
+D. xl
+✅ Answer: C
+
+🟢 Node.js — 20 NEW MCQs
+Q1. Which method creates a server?
+A. http.createServer()
+B. server.create()
+C. createServer()
+D. http.server()
+✅ Answer: A
+
+Q2. Which method writes file asynchronously?
+A. writeFileSync
+B. writeFile
+C. fileWrite
+D. fsWrite
+✅ Answer: B
+
+Q3. Which module handles OS-related operations?
+A. fs
+B. os
+C. path
+D. http
+✅ Answer: B
+
+Q4. Which method ends response?
+A. res.stop()
+B. res.end()
+C. res.close()
+D. res.finish()
+✅ Answer: B
+
+Q5. Which module helps in path operations?
+A. fs
+B. path
+C. url
+D. os
+✅ Answer: B
+
+Q6. Which method reads file synchronously?
+A. readFile
+B. readSync
+C. readFileSync
+D. fileRead
+✅ Answer: C
+
+Q7. Which object stores command-line arguments?
+A. args
+B. process.argv
+C. cli
+D. command
+✅ Answer: B
+
+Q8. Which module handles URL parsing?
+A. path
+B. url
+C. http
+D. fs
+✅ Answer: B
+
+Q9. Which function schedules immediate execution?
+A. setTimeout
+B. setImmediate
+C. nextTick
+D. delay
+✅ Answer: B
+
+Q10. Which function executes before event loop continues?
+A. setTimeout
+B. setImmediate
+C. process.nextTick
+D. delay
+✅ Answer: C
+
+Q11. Which method deletes file?
+A. fs.delete()
+B. fs.unlink()
+C. fs.remove()
+D. fs.clear()
+✅ Answer: B
+
+Q12. Which module handles streams?
+A. fs
+B. stream
+C. buffer
+D. http
+✅ Answer: B
+
+Q13. Which method appends file?
+A. appendFile
+B. addFile
+C. pushFile
+D. extendFile
+✅ Answer: A
+
+Q14. Which module is used for events?
+A. event
+B. events
+C. emitter
+D. listener
+✅ Answer: B
+
+Q15. EventEmitter is used for:
+A. file handling
+B. event handling
+C. DB
+D. HTTP
+✅ Answer: B
+
+Q16. Which method creates readable stream?
+A. createReadStream
+B. readStream
+C. streamRead
+D. read
+✅ Answer: A
+
+Q17. Which method creates writable stream?
+A. createWriteStream
+B. writeStream
+C. streamWrite
+D. write
+✅ Answer: A
+
+Q18. Which method closes server?
+A. server.stop()
+B. server.close()
+C. server.end()
+D. server.finish()
+✅ Answer: B
+
+Q19. Which method checks file existence?
+A. fs.exists()
+B. fs.check()
+C. fs.find()
+D. fs.has()
+✅ Answer: A
+
+Q20. Which method renames file?
+A. fs.rename()
+B. fs.change()
+C. fs.modify()
+D. fs.update()
+✅ Answer: A
+
+🚀 Express.js — 20 NEW MCQs
+Q1. Which method handles PUT request?
+A. app.put()
+B. app.update()
+C. app.modify()
+D. app.send()
+✅ Answer: A
+
+Q2. Which method handles DELETE request?
+A. app.remove()
+B. app.delete()
+C. app.del()
+D. app.clear()
+✅ Answer: B
+
+Q3. Which method redirects user?
+A. res.send()
+B. res.redirect()
+C. res.move()
+D. res.route()
+✅ Answer: B
+
+Q4. Which method sends file?
+A. res.file()
+B. res.sendFile()
+C. res.download()
+D. res.attach()
+✅ Answer: B
+
+Q5. Which method downloads file?
+A. res.download()
+B. res.sendFile()
+C. res.file()
+D. res.get()
+✅ Answer: A
+
+Q6. Which method sets header?
+A. res.set()
+B. res.header()
+C. Both A and B
+D. None
+✅ Answer: C
+
+Q7. Which method gets header?
+A. req.get()
+B. req.header()
+C. Both
+D. None
+✅ Answer: C
+
+Q8. Which middleware handles URL encoding?
+A. express.json()
+B. express.urlencoded()
+C. express.text()
+D. express.body()
+✅ Answer: B
+
+Q9. Which method chains routes?
+A. app.route()
+B. app.chain()
+C. app.link()
+D. app.group()
+✅ Answer: A
+
+Q10. Which method mounts middleware?
+A. app.use()
+B. app.mount()
+C. app.add()
+D. app.load()
+✅ Answer: A
+
+Q11. Which method renders view?
+A. res.view()
+B. res.render()
+C. res.display()
+D. res.show()
+✅ Answer: B
+
+Q12. Which property stores HTTP method?
+A. req.type
+B. req.method
+C. req.http
+D. req.call
+✅ Answer: B
+
+Q13. Which property stores URL?
+A. req.url
+B. req.path
+C. req.route
+D. req.link
+✅ Answer: A
+
+Q14. Which middleware logs requests?
+A. logger
+B. morgan
+C. log
+D. debug
+✅ Answer: B
+
+Q15. Which method ends response?
+A. res.end()
+B. res.stop()
+C. res.close()
+D. res.finish()
+✅ Answer: A
+
+Q16. Which method sets cookie?
+A. res.cookie()
+B. res.setCookie()
+C. res.addCookie()
+D. res.makeCookie()
+✅ Answer: A
+
+Q17. Which method clears cookie?
+A. res.removeCookie()
+B. res.clearCookie()
+C. res.deleteCookie()
+D. res.resetCookie()
+✅ Answer: B
+
+Q18. Which middleware handles CORS?
+A. cors
+B. cross
+C. allow
+D. origin
+✅ Answer: A
+
+Q19. Which property stores hostname?
+A. req.host
+B. req.hostname
+C. req.url
+D. req.name
+✅ Answer: B
+
+Q20. Which method sends status + JSON?
+A. res.status().json()
+B. res.send().json()
+C. res.json().status()
+D. res.data()
+✅ Answer: A
+
+🗄️ SQL — 20 NEW MCQs
+Q1. Which clause limits results?
+A. WHERE
+B. LIMIT
+C. GROUP
+D. ORDER
+✅ Answer: B
+
+Q2. Which keyword removes duplicates?
+A. UNIQUE
+B. DISTINCT
+C. FILTER
+D. REMOVE
+✅ Answer: B
+
+Q3. Which clause sorts descending?
+A. ASC
+B. DESC
+C. DOWN
+D. SORT
+✅ Answer: B
+
+Q4. Which operator checks range?
+A. IN
+B. BETWEEN
+C. RANGE
+D. LIMIT
+✅ Answer: B
+
+Q5. Which operator checks multiple values?
+A. IN
+B. ANY
+C. ALL
+D. EXISTS
+✅ Answer: A
+
+Q6. LIKE is used for:
+A. comparison
+B. pattern matching
+C. sorting
+D. grouping
+✅ Answer: B
+
+Q7. Wildcard for multiple chars:
+A. _
+B. %
+C. *
+D. #
+✅ Answer: B
+
+Q8. Wildcard for single char:
+A. %
+B. _
+C. *
+D. #
+✅ Answer: B
+
+Q9. Which constraint ensures uniqueness?
+A. PRIMARY KEY
+B. UNIQUE
+C. NOT NULL
+D. DEFAULT
+✅ Answer: B
+
+Q10. Which constraint prevents NULL?
+A. UNIQUE
+B. NOT NULL
+C. PRIMARY
+D. CHECK
+✅ Answer: B
+
+Q11. Which command deletes table?
+A. DELETE
+B. DROP
+C. REMOVE
+D. CLEAR
+✅ Answer: B
+
+Q12. Which command removes all rows?
+A. DELETE
+B. TRUNCATE
+C. DROP
+D. CLEAR
+✅ Answer: B
+
+Q13. Which command modifies table?
+A. UPDATE
+B. ALTER
+C. MODIFY
+D. CHANGE
+✅ Answer: B
+
+Q14. Which clause groups rows?
+A. GROUP BY
+B. ORDER BY
+C. WHERE
+D. HAVING
+✅ Answer: A
+
+Q15. Which clause filters grouped data?
+A. WHERE
+B. HAVING
+C. ORDER
+D. LIMIT
+✅ Answer: B
+
+Q16. Which join returns unmatched left rows?
+A. INNER
+B. LEFT
+C. RIGHT
+D. FULL
+✅ Answer: B
+
+Q17. Which join returns unmatched right rows?
+A. LEFT
+B. RIGHT
+C. INNER
+D. FULL
+✅ Answer: B
+
+Q18. Which join returns all rows?
+A. FULL JOIN
+B. INNER
+C. LEFT
+D. RIGHT
+✅ Answer: A
+
+Q19. EXISTS checks:
+A. values
+B. subquery existence
+C. join
+D. count
+✅ Answer: B
+
+
+Q20. Which function returns max value?
+A. MAX()
+B. TOP()
+C. HIGH()
+D. BIG()
+✅ Answer: A
