@@ -1,0 +1,159 @@
+1. What is React?
+
+A. Database
+B. JavaScript Library
+C. Framework
+D. Programming Language
+Answer: B. JavaScript Library
+
+2. Who developed React?
+
+A. Google
+B. Microsoft
+C. Facebook
+D. Amazon
+Answer: C. Facebook
+
+3. What is JSX?
+
+A. Java Syntax Extension
+B. JavaScript XML
+C. JSON XML
+D. Java Extended
+Answer: B. JavaScript XML
+
+4. Which method is used to create components in React?
+
+A. createComponent()
+B. React.createElement()
+C. renderComponent()
+D. buildComponent()
+Answer: B. React.createElement()
+
+5. What is the purpose of render() in React?
+
+A. To fetch data
+B. To display UI
+C. To update state
+D. To manage props
+Answer: B. To display UI
+
+6. What are props in React?
+
+A. Internal data storage
+B. External inputs to components
+C. Database values
+D. Functions
+Answer: B. External inputs to components
+
+7. What is state in React?
+
+A. Static data
+B. Data passed from parent
+C. Internal data of component
+D. HTML data
+Answer: C. Internal data of component
+
+8. Which hook is used for state management?
+
+A. useEffect
+B. useState
+C. useContext
+D. useRef
+Answer: B. useState
+
+9. Which hook is used for side effects?
+
+A. useState
+B. useReducer
+C. useEffect
+D. useMemo
+Answer: C. useEffect
+
+10. What is Virtual DOM?
+
+A. Real DOM copy
+B. Lightweight copy of real DOM
+C. Database
+D. HTML structure
+Answer: B. Lightweight copy of real DOM
+
+11. Which command creates a React app?
+
+A. npm start
+B. npx create-react-app
+C. npm install react
+D. react new app
+Answer: B. npx create-react-app
+
+12. What is a component in React?
+
+A. Function or class that returns UI
+B. Database table
+C. CSS file
+D. HTML file
+Answer: A. Function or class that returns UI
+
+13. Which attribute is used for styling in JSX?
+
+A. class
+B. className
+C. styleName
+D. css
+Answer: B. className
+
+14. What does useEffect run by default?
+
+A. Once
+B. Twice
+C. After every render
+D. Never
+Answer: C. After every render
+
+15. What is key in React lists?
+
+A. CSS property
+B. Unique identifier
+C. Function
+D. Hook
+Answer: B. Unique identifier
+
+16. Which hook is used to handle context?
+
+A. useState
+B. useEffect
+C. useContext
+D. useReducer
+Answer: C. useContext
+
+17. What is lifting state up?
+
+A. Moving state to parent component
+B. Deleting state
+C. Copying state
+D. Updating state
+Answer: A. Moving state to parent component
+
+18. What is React Router used for?
+
+A. Database routing
+B. Page navigation
+C. State management
+D. Styling
+Answer: B. Page navigation
+
+19. What is a fragment in React?
+
+A. Wrapper without extra DOM node
+B. Component
+C. Hook
+D. Function
+Answer: A. Wrapper without extra DOM node
+
+20. What is default export in React?
+
+A. Export multiple values
+B. Export single value
+C. Import function
+D. CSS export
+Answer: B. Export single value
