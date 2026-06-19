@@ -1,0 +1,147 @@
+Q1. Output?
+
+console.log(typeof null)
+A. null
+B. object
+C. undefined
+D. error
+✅ Answer: B
+Explanation: Known JS bug.
+
+Q2. Output?
+
+console.log(1 + "2" + 3)
+A. 6
+B. 123
+C. 33
+D. Error
+✅ Answer: B
+
+Q3. Output?
+
+console.log("5" - 2)
+A. 3
+B. "3"
+C. NaN
+D. Error
+✅ Answer: A
+
+Q4. === operator:
+A. loose equality
+B. strict equality
+C. assignment
+D. comparison only
+✅ Answer: B
+
+Q5. NaN == NaN?
+A. true
+B. false
+C. undefined
+D. error
+✅ Answer: B
+
+Q6. let is:
+A. function scoped
+B. block scoped
+C. global
+D. constant
+✅ Answer: B
+
+Q7. var is:
+A. block scoped
+B. function scoped
+C. constant
+D. none
+✅ Answer: B
+
+Q8. Closure means:
+A. function call
+B. function + lexical scope
+C. loop
+D. object
+✅ Answer: B
+
+Q9. Hoisting applies to:
+A. let
+B. const
+C. var
+D. none
+✅ Answer: C
+
+Q10. Arrow function this:
+A. dynamic
+B. global
+C. lexical
+D. undefined
+✅ Answer: C
+
+Q11. Promise states:
+A. start, end
+B. pending, fulfilled, rejected
+C. run, stop
+D. none
+✅ Answer: B
+
+Q12. setTimeout is:
+A. sync
+B. async
+C. blocking
+D. none
+✅ Answer: B
+
+Q13. map() returns:
+A. same array
+B. new array
+C. object
+D. number
+✅ Answer: B
+
+Q14. filter() returns:
+A. boolean
+B. new array
+C. string
+D. object
+✅ Answer: B
+
+Q15. reduce() returns:
+A. array
+B. single value
+C. object
+D. string
+✅ Answer: B
+
+Q16. typeof undefined:
+A. null
+B. undefined
+C. object
+D. error
+✅ Answer: B
+
+Q17. [] == false:
+A. true
+B. false
+C. error
+D. undefined
+✅ Answer: A
+
+Q18. 0 == false:
+A. true
+B. false
+C. error
+D. undefined
+✅ Answer: A
+
+Q19. Event loop handles:
+A. sync
+B. async
+C. loops
+D. errors
+✅ Answer: B
+
+Q20. this in global scope:
+A. window
+B. undefined
+C. object
+D. function
+✅ Answer: A
+
