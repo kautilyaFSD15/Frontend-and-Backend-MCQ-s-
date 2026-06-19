@@ -1,0 +1,141 @@
+Q1. Node.js is:
+A. Programming language
+B. JavaScript runtime environment
+C. Database
+D. Framework
+✅ Answer: B
+Explanation: Node.js runs JavaScript outside the browser.
+
+Q2. Node.js is built on:
+A. SpiderMonkey
+B. V8 Engine
+C. Chakra
+D. Java VM
+✅ Answer: B
+
+Q3. Which module is used for file handling?
+A. http
+B. fs
+C. path
+D. os
+✅ Answer: B
+
+Q4. Which module is used to create server?
+A. fs
+B. os
+C. http
+D. url
+✅ Answer: C
+
+Q5. What does NPM stand for?
+A. Node Package Manager
+B. New Package Manager
+C. Network Package Manager
+D. Node Project Manager
+✅ Answer: A
+
+Q6. require() is used for:
+A. Exporting modules
+B. Importing modules
+C. Running server
+D. Creating file
+✅ Answer: B
+
+Q7. Node.js is:
+A. Multi-threaded
+B. Single-threaded
+C. No-thread
+D. Static
+✅ Answer: B
+Explanation: Uses event loop for concurrency.
+
+Q8. Non-blocking means:
+A. Synchronous
+B. Asynchronous
+C. Static
+D. Sequential
+✅ Answer: B
+
+Q9. __dirname gives:
+A. File name
+B. Directory path
+C. Module name
+D. Server name
+✅ Answer: B
+
+Q10. module.exports is used to:
+A. Import
+B. Export
+C. Execute
+D. Compile
+✅ Answer: B
+
+Q11. Which function is async?
+A. readFileSync
+B. readFile
+C. writeFileSync
+D. openSync
+✅ Answer: B
+
+Q12. Which is sync?
+A. readFile
+B. writeFile
+C. readFileSync
+D. setTimeout
+✅ Answer: C
+
+Q13. Buffer is used for:
+A. Text only
+B. Binary data
+C. JSON
+D. HTML
+✅ Answer: B
+
+Q14. Event loop handles:
+A. Sync tasks
+B. Async tasks
+C. Only I/O
+D. None
+✅ Answer: B
+
+Q15. process is:
+A. Local object
+B. Global object
+C. Module
+D. Function
+✅ Answer: B
+
+Q16. REPL stands for:
+A. Read Execute Print Loop
+B. Run Execute Program Loop
+C. Read Eval Print Loop
+D. Run Eval Program Loop
+✅ Answer: C
+
+Q17. Stream is:
+A. Static data
+B. Continuous data flow
+C. Array
+D. Object
+✅ Answer: B
+
+Q18. setTimeout is:
+A. Sync
+B. Async
+C. Blocking
+D. Static
+✅ Answer: B
+
+Q19. Node.js uses:
+A. Thread pool only
+B. Event-driven architecture
+C. OOP only
+D. Static model
+✅ Answer: B
+
+Q20. Which is NOT a core module?
+A. fs
+B. http
+C. express
+D. path
+✅ Answer: C
