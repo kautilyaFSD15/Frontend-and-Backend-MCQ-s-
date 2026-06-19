@@ -1,0 +1,140 @@
+Q1. Bootstrap is primarily based on which CSS layout model?
+A. Float
+B. Grid system
+C. Flexbox only
+D. Table
+✅ Answer: B
+Explanation: Bootstrap uses a 12-column grid system.
+
+Q2. Which class makes an image responsive?
+A. img-responsive
+B. img-fluid
+C. responsive-img
+D. img-auto
+✅ Answer: B
+
+Q3. Which class centers text?
+A. text-middle
+B. text-center
+C. center-text
+D. align-center
+✅ Answer: B
+
+Q4. Which class creates a primary button?
+A. button-primary
+B. btn btn-primary
+C. btn-primary-only
+D. primary-btn
+✅ Answer: B
+
+Q5. Which class adds margin on all sides?
+A. m-3
+B. p-3
+C. margin-3
+D. space-3
+✅ Answer: A
+
+Q6. Which class adds padding?
+A. m-2
+B. p-2
+C. pad-2
+D. space-2
+✅ Answer: B
+
+Q7. Which class hides element on small screens?
+A. d-none d-sm-block
+B. hide-sm
+C. sm-hidden
+D. display-sm-none
+✅ Answer: A
+
+Q8. Which class creates a row?
+A. col
+B. row
+C. container
+D. grid
+✅ Answer: B
+
+Q9. Which class defines column width 6?
+A. col-6
+B. column-6
+C. grid-6
+D. span-6
+✅ Answer: A
+
+Q10. Which class makes container full width?
+A. container-full
+B. container-fluid
+C. container-wide
+D. full-container
+✅ Answer: B
+
+Q11. Which class aligns items center (flex)?
+A. align-center
+B. align-items-center
+C. justify-center
+D. flex-center
+✅ Answer: B
+
+Q12. Which class justifies content center?
+A. justify-center
+B. justify-content-center
+C. align-content-center
+D. content-center
+✅ Answer: B
+
+Q13. Which class creates a card?
+A. box
+B. panel
+C. card
+D. container
+✅ Answer: C
+
+Q14. Which class creates navbar?
+A. nav
+B. navbar
+C. menu
+D. header
+✅ Answer: B
+
+Q15. Which class makes text bold?
+A. bold
+B. fw-bold
+C. font-bold
+D. text-bold
+✅ Answer: B
+
+Q16. Which class sets background color?
+A. bg-primary
+B. background-primary
+C. color-bg
+D. bg-color
+✅ Answer: A
+
+Q17. Which class makes element flex?
+A. flex
+B. d-flex
+C. display-flex
+D. flexbox
+✅ Answer: B
+
+Q18. Which class rounds corners?
+A. rounded
+B. border-round
+C. radius
+D. curve
+✅ Answer: A
+
+Q19. Which class creates alert?
+A. alert-box
+B. alert
+C. message
+D. notify
+✅ Answer: B
+
+Q20. Bootstrap uses which breakpoint for large screens?
+A. sm
+B. md
+C. lg
+D. xl
+✅ Answer: C
