@@ -1,0 +1,140 @@
+Q1. Express.js is:
+A. Database
+B. Framework for Node.js
+C. Language
+D. Browser
+✅ Answer: B
+
+Q2. app.get() is used for:
+A. POST request
+B. GET request
+C. DELETE request
+D. PUT request
+✅ Answer: B
+
+Q3. app.post() handles:
+A. GET
+B. POST
+C. PUT
+D. PATCH
+✅ Answer: B
+
+Q4. Middleware is:
+A. Database
+B. Function in req-res cycle
+C. API
+D. Route
+✅ Answer: B
+
+Q5. next() does:
+A. Ends request
+B. Calls next middleware
+C. Restarts app
+D. Throws error
+✅ Answer: B
+
+Q6. express.json() is used for:
+A. HTML parsing
+B. JSON parsing
+C. CSS parsing
+D. XML parsing
+✅ Answer: B
+
+Q7. Route parameter example:
+A. /user?id=1
+B. /user/:id
+C. /user#id
+D. /user-id
+✅ Answer: B
+
+Q8. Query parameter example:
+A. /user/:id
+B. /user?id=1
+C. /user/id
+D. /user-id
+✅ Answer: B
+
+Q9. res.send() is used to:
+A. Receive data
+B. Send response
+C. Parse data
+D. Store data
+✅ Answer: B
+
+Q10. res.json() sends:
+A. HTML
+B. JSON
+C. CSS
+D. Text
+✅ Answer: B
+
+Q11. req.body contains:
+A. URL params
+B. Request body data
+C. Headers
+D. Cookies
+✅ Answer: B
+
+Q12. req.params contains:
+A. Query
+B. Body
+C. URL params
+D. Headers
+✅ Answer: C
+
+Q13. req.query contains:
+A. Params
+B. Query string
+C. Body
+D. Headers
+✅ Answer: B
+
+Q14. Static files served using:
+A. express.static()
+B. express.file()
+C. app.static()
+D. file.static()
+✅ Answer: A
+
+Q15. Error middleware has:
+A. 2 params
+B. 3 params
+C. 4 params
+D. 1 param
+✅ Answer: C
+Explanation: (err, req, res, next)
+
+Q16. res.status(404) means:
+A. success
+B. error code
+C. redirect
+D. none
+✅ Answer: B
+
+Q17. app.listen() is used to:
+A. stop server
+B. start server
+C. restart
+D. debug
+✅ Answer: B
+
+Q18. Router is used for:
+A. DB
+B. modular routes
+C. CSS
+D. HTML
+✅ Answer: B
+
+Q19. REST API means:
+A. Random API
+B. CRUD-based API
+C. Static API
+D. None
+✅ Answer: B
+
+Q20. Express follows:
+A. MVC pattern
+B. Only frontend
+C. DB model
+D. Static model
+✅ Answer: A
