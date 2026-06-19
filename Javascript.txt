@@ -145,3 +145,155 @@ C. object
 D. function
 ✅ Answer: A
 
+
+
+
+Q1. Output?
+
+console.log(2 + true)
+A. 2
+B. 3
+C. true
+D. NaN
+✅ Answer: B
+Explanation: true → 1
+
+Q2. Output?
+
+console.log("10" * 2)
+A. 20
+B. "20"
+C. NaN
+D. Error
+✅ Answer: A
+
+Q3. Output?
+
+console.log(typeof [])
+A. array
+B. object
+C. list
+D. undefined
+✅ Answer: B
+
+Q4. Output?
+
+console.log(undefined + 1)
+A. 1
+B. NaN
+C. undefined
+D. error
+✅ Answer: B
+
+Q5. Which is NOT primitive?
+A. string
+B. number
+C. object
+D. boolean
+✅ Answer: C
+
+Q6. isNaN("abc") returns:
+A. true
+B. false
+C. undefined
+D. error
+✅ Answer: A
+
+Q7. typeof NaN:
+A. number
+B. NaN
+C. undefined
+D. object
+✅ Answer: A
+
+Q8. Which loop runs at least once?
+A. for
+B. while
+C. do-while
+D. foreach
+✅ Answer: C
+
+Q9. push() does:
+A. remove
+B. add end
+C. add start
+D. sort
+✅ Answer: B
+
+Q10. pop() does:
+A. remove end
+B. remove start
+C. add
+D. sort
+✅ Answer: A
+
+Q11. shift() does:
+A. remove first
+B. remove last
+C. add last
+D. sort
+✅ Answer: A
+
+Q12. unshift() does:
+A. add start
+B. add end
+C. remove
+D. sort
+✅ Answer: A
+
+Q13. Math.floor(4.7):
+A. 5
+B. 4
+C. 4.7
+D. error
+✅ Answer: B
+
+Q14. parseInt("10px"):
+A. 10
+B. NaN
+C. "10"
+D. error
+✅ Answer: A
+
+Q15. Boolean(0):
+A. true
+B. false
+C. undefined
+D. error
+✅ Answer: B
+
+Q16. [] + [] →
+A. 0
+B. ""
+C. []
+D. NaN
+✅ Answer: B
+
+Q17. null + 1 →
+A. 1
+B. NaN
+C. null
+D. error
+✅ Answer: A
+
+Q18. typeof function(){} →
+A. function
+B. object
+C. undefined
+D. method
+✅ Answer: A
+
+Q19. console.log(!!"hello") →
+A. true
+B. false
+C. "hello"
+D. error
+✅ Answer: A
+
+
+Q20. Which method converts JSON to object?
+A. JSON.stringify
+B. JSON.parse
+C. JSON.convert
+D. JSON.object
+✅ Answer: B
