@@ -1,0 +1,140 @@
+Q1. Primary key is:
+A. Duplicate
+B. Unique + Not Null
+C. Nullable
+D. Optional
+✅ Answer: B
+
+Q2. Foreign key is used for:
+A. Sorting
+B. Linking tables
+C. Deleting
+D. Filtering
+✅ Answer: B
+
+Q3. Which command retrieves data?
+A. INSERT
+B. SELECT
+C. UPDATE
+D. DELETE
+✅ Answer: B
+
+Q4. WHERE clause is used for:
+A. Sorting
+B. Filtering rows
+C. Grouping
+D. Joining
+✅ Answer: B
+
+Q5. GROUP BY is used for:
+A. Sorting
+B. Filtering
+C. Grouping rows
+D. Joining
+✅ Answer: C
+
+Q6. HAVING is used with:
+A. SELECT
+B. GROUP BY
+C. ORDER BY
+D. DELETE
+✅ Answer: B
+
+Q7. ORDER BY is used for:
+A. Filtering
+B. Sorting
+C. Joining
+D. Grouping
+✅ Answer: B
+
+Q8. INNER JOIN returns:
+A. All rows
+B. Matching rows
+C. Left rows
+D. Right rows
+✅ Answer: B
+
+Q9. LEFT JOIN returns:
+A. Matching only
+B. All left + matched
+C. All right
+D. None
+✅ Answer: B
+
+Q10. COUNT() does:
+A. Sum
+B. Count rows
+C. Average
+D. Max
+✅ Answer: B
+
+Q11. SUM() does:
+A. Count
+B. Add values
+C. Average
+D. Sort
+✅ Answer: B
+
+Q12. AVG() does:
+A. Sum
+B. Average
+C. Count
+D. Sort
+✅ Answer: B
+
+Q13. DISTINCT keyword:
+A. duplicates
+B. unique values
+C. sorting
+D. grouping
+✅ Answer: B
+
+Q14. INSERT is used to:
+A. delete
+B. update
+C. add data
+D. fetch
+✅ Answer: C
+
+Q15. UPDATE is used to:
+A. add
+B. modify
+C. delete
+D. select
+✅ Answer: B
+
+Q16. DELETE is used to:
+A. add
+B. remove data
+C. modify
+D. select
+✅ Answer: B
+
+Q17. LIMIT is used to:
+A. filter
+B. restrict rows
+C. join
+D. group
+✅ Answer: B
+
+Q18. INDEX improves:
+A. storage
+B. performance
+C. UI
+D. syntax
+✅ Answer: B
+
+Q19. NOT NULL means:
+A. optional
+B. must have value
+C. duplicate
+D. none
+✅ Answer: B
+
+
+Q20. Which is DDL command?
+A. SELECT
+B. INSERT
+C. CREATE
+D. UPDATE
+✅ Answer: C
