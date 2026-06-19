@@ -142,3 +142,147 @@ B. Embedding another webpage
 C. Linking
 D. Forms
 ✅ Answer: B
+
+
+
+
+Q1. Which tag is used for inserting a horizontal line?
+A. <line>
+B. <hr>
+C. <br>
+D. <hl>
+✅ Answer: B
+Explanation: <hr> creates a horizontal rule.
+
+Q2. Which attribute provides alternate text for images?
+A. title
+B. alt
+C. src
+D. href
+✅ Answer: B
+
+Q3. Which tag is used to define a description list?
+A. <ul>
+B. <ol>
+C. <dl>
+D. <list>
+✅ Answer: C
+
+Q4. Which tag is used for table header cell?
+A. <td>
+B. <th>
+C. <tr>
+D. <thead>
+✅ Answer: B
+
+Q5. Which tag is used to embed audio?
+A. <sound>
+B. <audio>
+C. <media>
+D. <music>
+✅ Answer: B
+
+Q6. Which attribute is used to specify form submission URL?
+A. action
+B. method
+C. target
+D. submit
+✅ Answer: A
+
+Q7. Which input type is used for email validation?
+A. text
+B. email
+C. mail
+D. validate
+✅ Answer: B
+
+Q8. Which tag defines navigation links?
+A. <nav>
+B. <link>
+C. <menu>
+D. <header>
+✅ Answer: A
+
+Q9. Which tag is used for video embedding?
+A. <media>
+B. <video>
+C. <movie>
+D. <play>
+✅ Answer: B
+
+Q10. Which attribute is used to merge table columns?
+A. rowspan
+B. colspan
+C. merge
+D. span
+✅ Answer: B
+
+Q11. Which tag is used for emphasized text?
+A. <b>
+B. <i>
+C. <em>
+D. <strong>
+✅ Answer: C
+
+Q12. Which tag defines a footer?
+A. <bottom>
+B. <footer>
+C. <end>
+D. <section>
+✅ Answer: B
+
+Q13. Which attribute is used for unique identification?
+A. class
+B. id
+C. name
+D. key
+✅ Answer: B
+
+Q14. Which tag defines a label for input?
+A. <input>
+B. <label>
+C. <form>
+D. <text>
+✅ Answer: B
+
+Q15. Which tag is used for preformatted text?
+A. <code>
+B. <pre>
+C. <format>
+D. <text>
+✅ Answer: B
+
+Q16. Which tag is used to group form elements?
+A. <fieldset>
+B. <group>
+C. <formgroup>
+D. <section>
+✅ Answer: A
+
+Q17. Which tag defines caption for table?
+A. <caption>
+B. <title>
+C. <head>
+D. <th>
+✅ Answer: A
+
+Q18. Which tag is used for inline frame?
+A. <frame>
+B. <iframe>
+C. <embed>
+D. <object>
+✅ Answer: B
+
+Q19. Which tag is used for abbreviation?
+A. <abbr>
+B. <short>
+C. <ab>
+D. <acr>
+✅ Answer: A
+
+Q20. Which tag defines document section?
+A. <section>
+B. <part>
+C. <div>
+D. <area>
+✅ Answer: A
