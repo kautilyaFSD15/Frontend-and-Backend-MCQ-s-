@@ -1,0 +1,140 @@
+Q1. CSS stands for:
+A. Creative Style Sheets
+B. Cascading Style Sheets
+C. Computer Style Sheets
+D. Colorful Style Sheets
+✅ Answer: B
+
+Q2. Highest specificity:
+A. Tag
+B. Class
+C. ID
+D. Inline
+✅ Answer: D
+Explanation: Inline > ID > Class > Tag
+
+Q3. Default flex direction:
+A. column
+B. row
+C. inline
+D. grid
+✅ Answer: B
+
+Q4. position: absolute is relative to:
+A. viewport
+B. nearest positioned ancestor
+C. body
+D. screen
+✅ Answer: B
+
+Q5. z-index works on:
+A. all elements
+B. positioned elements
+C. inline elements
+D. block elements
+✅ Answer: B
+
+Q6. display: none means:
+A. hidden with space
+B. removed from layout
+C. transparent
+D. invisible only
+✅ Answer: B
+
+Q7. visibility: hidden means:
+A. removed
+B. invisible but space remains
+C. deleted
+D. transparent
+✅ Answer: B
+
+Q8. CSS Grid is:
+A. 1D layout
+B. 2D layout
+C. 3D layout
+D. Static layout
+✅ Answer: B
+
+Q9. Flexbox is:
+A. 2D
+B. 1D
+C. Static
+D. None
+✅ Answer: B
+
+Q10. Margin controls:
+A. inner spacing
+B. outer spacing
+C. border
+D. color
+✅ Answer: B
+
+Q11. Padding controls:
+A. outer spacing
+B. inner spacing
+C. border
+D. margin
+✅ Answer: B
+
+Q12. overflow: hidden does:
+A. shows overflow
+B. hides overflow
+C. scrolls
+D. expands
+✅ Answer: B
+
+Q13. position: fixed:
+A. relative
+B. fixed to viewport
+C. static
+D. absolute
+✅ Answer: B
+
+Q14. display: flex enables:
+A. grid
+B. flexbox
+C. inline
+D. block
+✅ Answer: B
+
+Q15. justify-content aligns:
+A. cross axis
+B. main axis
+C. vertical
+D. none
+✅ Answer: B
+
+Q16. align-items aligns:
+A. main axis
+B. cross axis
+C. horizontal only
+D. none
+✅ Answer: B
+
+Q17. rem unit is based on:
+A. parent
+B. root
+C. body
+D. element
+✅ Answer: B
+
+Q18. em unit is based on:
+A. root
+B. parent
+C. viewport
+D. screen
+✅ Answer: B
+
+Q19. opacity: 0 means:
+A. removed
+B. invisible but space exists
+C. deleted
+D. hidden completely
+✅ Answer: B
+
+Q20. float is used for:
+A. animation
+B. layout alignment
+C. color
+D. spacing
+✅ Answer: B
