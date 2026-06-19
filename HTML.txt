@@ -1,0 +1,144 @@
+Q1. HTML stands for:
+A. Hyper Trainer Marking Language
+B. Hyper Text Markup Language
+C. Hyper Text Marketing Language
+D. Hyper Tool Multi Language
+✅ Answer: B
+Explanation: HTML is the standard markup language for web pages.
+
+Q2. Which tag defines the largest heading?
+A. <h6>
+B. <heading>
+C. <h1>
+D. <head>
+✅ Answer: C
+Explanation: <h1> is the highest-level heading.
+
+Q3. Which is a self-closing tag?
+A. <div>
+B. <p>
+C. <img>
+D. <section>
+✅ Answer: C
+Explanation: <img> is a void element (no closing tag).
+
+Q4. Which tag is used to create a hyperlink?
+A. <link>
+B. <a>
+C. <href>
+D. <url>
+✅ Answer: B
+Explanation: <a> tag creates hyperlinks.
+
+Q5. Which attribute specifies image path?
+A. href
+B. src
+C. alt
+D. path
+✅ Answer: B
+
+Q6. Which is a semantic tag?
+A. <div>
+B. <span>
+C. <section>
+D. <b>
+✅ Answer: C
+Explanation: Semantic tags describe meaning.
+
+Q7. Which tag defines a table row?
+A. <td>
+B. <tr>
+C. <th>
+D. <table>
+✅ Answer: B
+
+Q8. Input type for password field?
+A. text
+B. password
+C. secure
+D. hidden
+✅ Answer: B
+
+Q9. <meta> tag is used for:
+A. Styling
+B. Metadata/SEO
+C. Scripting
+D. Layout
+✅ Answer: B
+
+Q10. Which is a block-level element?
+A. <span>
+B. <a>
+C. <div>
+D. <img>
+✅ Answer: C
+
+Q11. Which is an inline element?
+A. <div>
+B. <p>
+C. <span>
+D. <section>
+✅ Answer: C
+
+Q12. Correct HTML5 doctype?
+A. <!DOCTYPE html5>
+B. <!DOCTYPE html>
+C. <doctype html>
+D. <html5>
+✅ Answer: B
+
+Q13. Line break tag:
+A. <lb>
+B. <break>
+C. <br>
+D. <hr>
+✅ Answer: C
+
+Q14. Which tag defines a form?
+A. <form>
+B. <input>
+C. <label>
+D. <submit>
+✅ Answer: A
+
+Q15. <title> tag is inside:
+A. <body>
+B. <head>
+C. <html>
+D. <meta>
+✅ Answer: B
+
+Q16. Open link in new tab:
+A. new="tab"
+B. target="_blank"
+C. open="new"
+D. link="new"
+✅ Answer: B
+
+Q17. <ul> represents:
+A. Ordered list
+B. Unordered list
+C. Definition list
+D. Table
+✅ Answer: B
+
+Q18. <ol> represents:
+A. Ordered list
+B. Object list
+C. Online list
+D. None
+✅ Answer: A
+
+Q19. <strong> is used for:
+A. Italic
+B. Bold (semantic importance)
+C. Underline
+D. Highlight
+✅ Answer: B
+
+Q20. <iframe> is used for:
+A. Styling
+B. Embedding another webpage
+C. Linking
+D. Forms
+✅ Answer: B
