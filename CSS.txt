@@ -138,3 +138,147 @@ B. layout alignment
 C. color
 D. spacing
 ✅ Answer: B
+
+
+
+
+
+Q1. Which property changes text color?
+A. font-color
+B. color
+C. text-style
+D. background
+✅ Answer: B
+
+Q2. Which property sets background color?
+A. bg-color
+B. background-color
+C. color-bg
+D. back-color
+✅ Answer: B
+
+Q3. Which property controls font size?
+A. text-size
+B. font-size
+C. size
+D. text-font
+✅ Answer: B
+
+Q4. Which value makes element inline-block?
+A. inline
+B. block
+C. inline-block
+D. flex
+✅ Answer: C
+
+Q5. Which property is used for border radius?
+A. radius
+B. border-radius
+C. curve
+D. round
+✅ Answer: B
+
+Q6. Which property changes font style?
+A. font-weight
+B. font-style
+C. text-style
+D. font-format
+✅ Answer: B
+
+Q7. Which property sets width?
+A. size
+B. width
+C. length
+D. area
+✅ Answer: B
+
+Q8. Which property sets height?
+A. height
+B. size
+C. area
+D. length
+✅ Answer: A
+
+Q9. Which property controls text alignment?
+A. align
+B. text-align
+C. justify
+D. font-align
+✅ Answer: B
+
+Q10. Which property adds shadow to text?
+A. text-shadow
+B. shadow
+C. font-shadow
+D. box-shadow
+✅ Answer: A
+
+Q11. Which property controls overflow scrolling?
+A. overflow
+B. scroll
+C. flow
+D. display
+✅ Answer: A
+
+Q12. Which property sets background image?
+A. bg-image
+B. background-image
+C. image-bg
+D. back-image
+✅ Answer: B
+
+Q13. Which property controls list style?
+A. list-type
+B. list-style
+C. list
+D. style
+✅ Answer: B
+
+Q14. Which property changes cursor?
+A. pointer
+B. cursor
+C. mouse
+D. hover
+✅ Answer: B
+
+Q15. Which property defines position?
+A. align
+B. position
+C. layout
+D. display
+✅ Answer: B
+
+Q16. Which value makes element hidden?
+A. display: none
+B. visibility: visible
+C. opacity: 1
+D. show: false
+✅ Answer: A
+
+Q17. Which property sets font family?
+A. font
+B. font-family
+C. text-family
+D. family
+✅ Answer: B
+
+Q18. Which property controls spacing between letters?
+A. letter-spacing
+B. word-spacing
+C. spacing
+D. text-spacing
+✅ Answer: A
+
+Q19. Which property controls line spacing?
+A. line-height
+B. line-spacing
+C. spacing
+D. height
+✅ Answer: A
+
+Q20. Which property adds shadow to box?
+A. shadow
+B. box-shadow
+C. text-shadow
+D. border-shadow
+✅ Answer: B
