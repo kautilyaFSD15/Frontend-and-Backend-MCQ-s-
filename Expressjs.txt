@@ -138,3 +138,146 @@ B. Only frontend
 C. DB model
 D. Static model
 ✅ Answer: A
+
+
+
+🚀 Express.js — 20 NEW MCQs
+Q1. Which method handles PUT request?
+A. app.put()
+B. app.update()
+C. app.modify()
+D. app.send()
+✅ Answer: A
+
+Q2. Which method handles DELETE request?
+A. app.remove()
+B. app.delete()
+C. app.del()
+D. app.clear()
+✅ Answer: B
+
+Q3. Which method redirects user?
+A. res.send()
+B. res.redirect()
+C. res.move()
+D. res.route()
+✅ Answer: B
+
+Q4. Which method sends file?
+A. res.file()
+B. res.sendFile()
+C. res.download()
+D. res.attach()
+✅ Answer: B
+
+Q5. Which method downloads file?
+A. res.download()
+B. res.sendFile()
+C. res.file()
+D. res.get()
+✅ Answer: A
+
+Q6. Which method sets header?
+A. res.set()
+B. res.header()
+C. Both A and B
+D. None
+✅ Answer: C
+
+Q7. Which method gets header?
+A. req.get()
+B. req.header()
+C. Both
+D. None
+✅ Answer: C
+
+Q8. Which middleware handles URL encoding?
+A. express.json()
+B. express.urlencoded()
+C. express.text()
+D. express.body()
+✅ Answer: B
+
+Q9. Which method chains routes?
+A. app.route()
+B. app.chain()
+C. app.link()
+D. app.group()
+✅ Answer: A
+
+Q10. Which method mounts middleware?
+A. app.use()
+B. app.mount()
+C. app.add()
+D. app.load()
+✅ Answer: A
+
+Q11. Which method renders view?
+A. res.view()
+B. res.render()
+C. res.display()
+D. res.show()
+✅ Answer: B
+
+Q12. Which property stores HTTP method?
+A. req.type
+B. req.method
+C. req.http
+D. req.call
+✅ Answer: B
+
+Q13. Which property stores URL?
+A. req.url
+B. req.path
+C. req.route
+D. req.link
+✅ Answer: A
+
+Q14. Which middleware logs requests?
+A. logger
+B. morgan
+C. log
+D. debug
+✅ Answer: B
+
+Q15. Which method ends response?
+A. res.end()
+B. res.stop()
+C. res.close()
+D. res.finish()
+✅ Answer: A
+
+Q16. Which method sets cookie?
+A. res.cookie()
+B. res.setCookie()
+C. res.addCookie()
+D. res.makeCookie()
+✅ Answer: A
+
+Q17. Which method clears cookie?
+A. res.removeCookie()
+B. res.clearCookie()
+C. res.deleteCookie()
+D. res.resetCookie()
+✅ Answer: B
+
+Q18. Which middleware handles CORS?
+A. cors
+B. cross
+C. allow
+D. origin
+✅ Answer: A
+
+Q19. Which property stores hostname?
+A. req.host
+B. req.hostname
+C. req.url
+D. req.name
+✅ Answer: B
+
+Q20. Which method sends status + JSON?
+A. res.status().json()
+B. res.send().json()
+C. res.json().status()
+D. res.data()
+✅ Answer: A
