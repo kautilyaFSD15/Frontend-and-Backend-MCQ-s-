@@ -139,3 +139,146 @@ B. http
 C. express
 D. path
 ✅ Answer: C
+
+
+
+🟢 Node.js — 20 NEW MCQs
+Q1. Which method creates a server?
+A. http.createServer()
+B. server.create()
+C. createServer()
+D. http.server()
+✅ Answer: A
+
+Q2. Which method writes file asynchronously?
+A. writeFileSync
+B. writeFile
+C. fileWrite
+D. fsWrite
+✅ Answer: B
+
+Q3. Which module handles OS-related operations?
+A. fs
+B. os
+C. path
+D. http
+✅ Answer: B
+
+Q4. Which method ends response?
+A. res.stop()
+B. res.end()
+C. res.close()
+D. res.finish()
+✅ Answer: B
+
+Q5. Which module helps in path operations?
+A. fs
+B. path
+C. url
+D. os
+✅ Answer: B
+
+Q6. Which method reads file synchronously?
+A. readFile
+B. readSync
+C. readFileSync
+D. fileRead
+✅ Answer: C
+
+Q7. Which object stores command-line arguments?
+A. args
+B. process.argv
+C. cli
+D. command
+✅ Answer: B
+
+Q8. Which module handles URL parsing?
+A. path
+B. url
+C. http
+D. fs
+✅ Answer: B
+
+Q9. Which function schedules immediate execution?
+A. setTimeout
+B. setImmediate
+C. nextTick
+D. delay
+✅ Answer: B
+
+Q10. Which function executes before event loop continues?
+A. setTimeout
+B. setImmediate
+C. process.nextTick
+D. delay
+✅ Answer: C
+
+Q11. Which method deletes file?
+A. fs.delete()
+B. fs.unlink()
+C. fs.remove()
+D. fs.clear()
+✅ Answer: B
+
+Q12. Which module handles streams?
+A. fs
+B. stream
+C. buffer
+D. http
+✅ Answer: B
+
+Q13. Which method appends file?
+A. appendFile
+B. addFile
+C. pushFile
+D. extendFile
+✅ Answer: A
+
+Q14. Which module is used for events?
+A. event
+B. events
+C. emitter
+D. listener
+✅ Answer: B
+
+Q15. EventEmitter is used for:
+A. file handling
+B. event handling
+C. DB
+D. HTTP
+✅ Answer: B
+
+Q16. Which method creates readable stream?
+A. createReadStream
+B. readStream
+C. streamRead
+D. read
+✅ Answer: A
+
+Q17. Which method creates writable stream?
+A. createWriteStream
+B. writeStream
+C. streamWrite
+D. write
+✅ Answer: A
+
+Q18. Which method closes server?
+A. server.stop()
+B. server.close()
+C. server.end()
+D. server.finish()
+✅ Answer: B
+
+Q19. Which method checks file existence?
+A. fs.exists()
+B. fs.check()
+C. fs.find()
+D. fs.has()
+✅ Answer: A
+
+Q20. Which method renames file?
+A. fs.rename()
+B. fs.change()
+C. fs.modify()
+D. fs.update()
+✅ Answer: A
